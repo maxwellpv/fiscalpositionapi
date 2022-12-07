@@ -13,9 +13,9 @@ public class AnnualRecordMapper {
     @Autowired
     private EnhancedModelMapper mapper;
 
-    public AnnualRecordResource toResource(Record model){return mapper.map(model, AnnualRecordResource.class);}
+    public AnnualRecordResource toResource(AnnualRecord model){return mapper.map(model, AnnualRecordResource.class);}
 
-    public List<AnnualRecordResource> toResource(List<Record> model){ return mapper.mapList(model, AnnualRecordResource.class);}
+    public List<AnnualRecordResource> toResource(List<AnnualRecord> model){ return mapper.mapList(model, AnnualRecordResource.class);}
 
     public AnnualRecord toModel(CreateAnnualRecordResource resource) {return mapper.map(resource, AnnualRecord.class);}
 
