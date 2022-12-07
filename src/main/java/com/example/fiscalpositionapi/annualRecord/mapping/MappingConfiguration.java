@@ -1,4 +1,4 @@
-package com.example.fiscalpositionapi.record.mapping;
+package com.example.fiscalpositionapi.annualRecord.mapping;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

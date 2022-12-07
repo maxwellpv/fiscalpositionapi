@@ -1,4 +1,4 @@
-package com.example.fiscalpositionapi.record.resource;
+package com.example.fiscalpositionapi.annualRecord.resource;
 
 import lombok.Getter;
 import lombok.Setter;

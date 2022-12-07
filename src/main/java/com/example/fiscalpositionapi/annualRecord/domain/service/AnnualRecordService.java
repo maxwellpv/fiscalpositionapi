@@ -1,6 +1,6 @@
-package com.example.fiscalpositionapi.record.domain.service;
+package com.example.fiscalpositionapi.annualRecord.domain.service;
 
-import com.example.fiscalpositionapi.record.domain.model.entity.AnnualRecord;
+import com.example.fiscalpositionapi.annualRecord.domain.model.entity.AnnualRecord;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;

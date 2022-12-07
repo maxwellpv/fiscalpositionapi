@@ -1,9 +1,9 @@
-package com.example.fiscalpositionapi.record.mapping;
+package com.example.fiscalpositionapi.annualRecord.mapping;
 
-import com.example.fiscalpositionapi.record.domain.model.entity.AnnualRecord;
-import com.example.fiscalpositionapi.record.resource.CreateAnnualRecordResource;
-import com.example.fiscalpositionapi.record.resource.AnnualRecordResource;
-import com.example.fiscalpositionapi.record.resource.UpdateAnnualRecordResource;
+import com.example.fiscalpositionapi.annualRecord.domain.model.entity.AnnualRecord;
+import com.example.fiscalpositionapi.annualRecord.resource.CreateAnnualRecordResource;
+import com.example.fiscalpositionapi.annualRecord.resource.AnnualRecordResource;
+import com.example.fiscalpositionapi.annualRecord.resource.UpdateAnnualRecordResource;
 import com.example.fiscalpositionapi.shared.EnhancedModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 

@@ -1,4 +1,4 @@
-package com.example.fiscalpositionapi.record.resource;
+package com.example.fiscalpositionapi.annualRecord.resource;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

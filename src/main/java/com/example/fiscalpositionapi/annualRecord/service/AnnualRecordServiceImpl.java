@@ -1,8 +1,8 @@
-package com.example.fiscalpositionapi.record.service;
+package com.example.fiscalpositionapi.annualRecord.service;
 
-import com.example.fiscalpositionapi.record.domain.model.entity.AnnualRecord;
-import com.example.fiscalpositionapi.record.domain.persistence.AnnualRecordRepository;
-import com.example.fiscalpositionapi.record.domain.service.AnnualRecordService;
+import com.example.fiscalpositionapi.annualRecord.domain.model.entity.AnnualRecord;
+import com.example.fiscalpositionapi.annualRecord.domain.persistence.AnnualRecordRepository;
+import com.example.fiscalpositionapi.annualRecord.domain.service.AnnualRecordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

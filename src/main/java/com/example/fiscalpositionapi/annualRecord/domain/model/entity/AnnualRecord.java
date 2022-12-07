@@ -1,4 +1,4 @@
-package com.example.fiscalpositionapi.record.domain.model.entity;
+package com.example.fiscalpositionapi.annualRecord.domain.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
