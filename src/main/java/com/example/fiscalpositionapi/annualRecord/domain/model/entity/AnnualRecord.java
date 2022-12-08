@@ -20,8 +20,7 @@ public class AnnualRecord {
     private Long id;
 
     @NotNull
-    @NotBlank
-    private String year;
+    private int year;
 
     @NotNull
     @NotBlank
