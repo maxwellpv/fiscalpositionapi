@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class UpdateAnnualRecordResource {
-    private String year;
+    private int year;
     private String state;
     private String category;
     private String item;

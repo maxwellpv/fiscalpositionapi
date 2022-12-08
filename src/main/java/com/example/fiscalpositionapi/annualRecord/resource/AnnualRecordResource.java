@@ -7,7 +7,7 @@ import lombok.Setter;
 @Setter
 public class AnnualRecordResource {
     private Long id;
-    private String year;
+    private int year;
     private String state;
     private String category;
     private String item;

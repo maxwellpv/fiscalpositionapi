@@ -21,7 +21,7 @@ public class AnnualRecord {
 
     @NotNull
     @NotBlank
-    private String year;
+    private int year;
 
     @NotNull
     @NotBlank

@@ -10,7 +10,7 @@ import lombok.Setter;
 public class CreateAnnualRecordResource {
     @NotNull
     @NotBlank
-    private String year;
+    private int year;
 
     @NotNull
     @NotBlank
